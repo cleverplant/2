@@ -32,3 +32,4 @@ Haskell, Java, F#, Kotlin, Scala и множество других.
 
 string gree = "One more time";
 Console.WriteLine(gree);
+
